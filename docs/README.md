@@ -1,6 +1,26 @@
 # Green Living Hub
 
-A web app for health and sustainability tracking, built with Django and React (Vite, JavaScript).
+A web application for tracking personal health metrics and sustainability habits, built with Django (backend) and React (frontend).
+
+# Features
+# Health Tracking:
+      . Log daily nutrition (calories, macros)
+      
+      . Record physical activity and workouts
+      
+      . Ask Ai to get a good plan
+      
+      . Join a community to exchange healthy ideas and encourage each other
+# Technologies Used
+Django REST Framework
+
+PostgreSQL database
+
+JWT Authenticati
+
+Signals
+
+ React.js
 
 ## Setup
 
